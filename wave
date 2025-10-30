@@ -1,0 +1,4 @@
+half_adder:half_adder
+	Process #ASSIGN#9
+	Process #ASSIGN#10
+Capacity #vsim_capacity#
